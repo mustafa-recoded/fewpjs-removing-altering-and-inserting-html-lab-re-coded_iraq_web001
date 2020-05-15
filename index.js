@@ -11,7 +11,7 @@
 */
 
 const newHeader = document.createElement('h1')
-document.body.appendChid(p)
+document.body.appendChid(newHeader)
 p.innerHTML = "updated for the dom"
 p.color = "red"
 document.getElementById('main#main').remove()
