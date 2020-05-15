@@ -14,4 +14,4 @@ const p = document.createElement(p)
 document.body.appendChid(p)
 p.innerHTML = "updated for the dom"
 p.color = "red"
-p.remove()
+document.getElementById('main#main').remove()
