@@ -10,7 +10,7 @@
 
 */
 
-const p = document.createElement(p)
+const newHeader = document.createElement('h1')
 document.body.appendChid(p)
 p.innerHTML = "updated for the dom"
 p.color = "red"
